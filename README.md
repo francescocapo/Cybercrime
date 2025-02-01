@@ -6,9 +6,9 @@ The datasets can be retrived at https://www.kdd.org/kdd-cup/view/kdd-cup-1999/Da
 
 The datasets used:
 
-kddcup.names: A list of features
-kddcup.data_10_percent_corrected: Train Data
-corrected.zip: Test data with corrected labels.
-training_attack_types: A list of intrusion types.
+- kddcup.names: A list of features
+- kddcup.data_10_percent_corrected: Train Data
+- corrected.zip: Test data with corrected labels.
+- training_attack_types: A list of intrusion types.
 
 
